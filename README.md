@@ -1,2 +1,5 @@
-# Flask-Blog-Post-App
-This is blog app created on flask
+# Zoom Clone ✌️
+
+Repo of zoom Clone. 
+
+https//call.rekhagujar.repl.co
